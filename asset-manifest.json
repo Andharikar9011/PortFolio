@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.3dbaed9a.css",
-    "main.js": "/PortFolio/static/js/main.52058fd2.js",
+    "main.js": "/PortFolio/static/js/main.a0508e7c.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortFolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/1661752995.glb": "/PortFolio/static/media/1661752995.64c9b182a80f0ffe49c0.glb",
     "static/media/1661753173.glb": "/PortFolio/static/media/1661753173.7685f8759b955f08915a.glb",
     "static/media/1661753280.glb": "/PortFolio/static/media/1661753280.72e496864dc5b7ae0fd0.glb",
     "static/media/bg.jpg": "/PortFolio/static/media/bg.815899db7b3a53943464.jpg",
+    "static/media/1661753396.glb": "/PortFolio/static/media/1661753396.00d02ffd0e79b4032270.glb",
     "static/media/Blockchaineth.glb": "/PortFolio/static/media/Blockchaineth.0cfb9c90f7bc30376871.glb",
     "static/media/metamask.glb": "/PortFolio/static/media/metamask.9a030a483832b94050b5.glb",
     "static/media/Htmllogo1.glb": "/PortFolio/static/media/Htmllogo1.4f373d555ed375e4fa36.glb",
@@ -14,11 +15,11 @@
     "static/media/threejs.glb": "/PortFolio/static/media/threejs.eb139b9a7bfe15370544.glb",
     "index.html": "/PortFolio/index.html",
     "main.3dbaed9a.css.map": "/PortFolio/static/css/main.3dbaed9a.css.map",
-    "main.52058fd2.js.map": "/PortFolio/static/js/main.52058fd2.js.map",
+    "main.a0508e7c.js.map": "/PortFolio/static/js/main.a0508e7c.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortFolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3dbaed9a.css",
-    "static/js/main.52058fd2.js"
+    "static/js/main.a0508e7c.js"
   ]
 }
